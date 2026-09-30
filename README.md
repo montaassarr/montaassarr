@@ -18,7 +18,7 @@ I build backends, cloud deployments and LLM / voice-AI products end to end.
 
 #### Experience
 
-- **Socomec Group**, Software Engineer Intern (Jun–Aug 2026): CQRS backend in ASP.NET Core 8 / Blazor for a shop-floor app used in several countries, full audit trail, .NET 8 re-architecture with HR/ERP sync workers, and an MQTT / Node-RED edge-to-IT telemetry pipeline with store-and-forward.
+- **Socomec Group**, Software Engineer Intern (Jun–Aug 2026): CQRS backend in ASP.NET Core 8 / Blazor for a shop-floor app used in several countries, full audit trail, .NET 8 re-architecture with HR/ERP sync workers, and the design and prototype of an MQTT / Node-RED edge-to-IT pipeline with store-and-forward.
 - **ArabSoft**, Full-Stack Engineer Intern (Jun–Jul 2025): rebuilt a legacy HR & payroll system with React/TypeScript and FastAPI + MongoDB.
 
 #### Tools I use most

@@ -25,4 +25,4 @@ I build backends, cloud deployments and LLM / voice-AI products end to end.
 
 `C#` `.NET 8` `Python` `FastAPI` `TypeScript` `React` `Next.js` `Node.js` `MongoDB` `SQL Server` `Redis` `Docker` `Kubernetes` `AWS` `GitHub Actions` `MQTT` `LLM agents / RAG`
 
-Currently preparing the AWS Solutions Architect – Associate exam. I speak English, French and Arabic, and I'm starting German.
+Currently preparing the AWS Solutions Architect – Associate exam. I speak Arabic, French and English.

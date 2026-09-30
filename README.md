@@ -25,6 +25,6 @@ I build backends, cloud deployments and LLM / voice-AI products end to end.
 
 #### Tools I use most
 
-`C#` `.NET 8` `Python` `FastAPI` `TypeScript` `React` `Next.js` `Node.js` `MongoDB` `SQL Server` `Redis` `Docker` `Kubernetes` `AWS` `GitHub Actions` `MQTT` `LLM agents / RAG`
+`Python` `FastAPI` `TypeScript` `React` `Next.js` `Node.js` `MongoDB` `SQL Server` `Redis` `Docker` `Kubernetes` `AWS` `GitHub Actions` `MQTT` `LLM agents / RAG` `C#` `.NET`
 
 Currently preparing the AWS Solutions Architect – Associate exam. I speak Arabic, French and English.

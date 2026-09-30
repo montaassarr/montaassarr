@@ -16,6 +16,8 @@ I build backends, cloud deployments and LLM / voice-AI products end to end.
 | [**Wasel / COD Risk**](https://github.com/montaassarr/hackathon) | GOMYCODE × NVIDIA hackathon (team of 4): scores cash-on-delivery refusal risk from Darija, Arabizi and French chats, and explains each score | Next.js, FastAPI, LLM extraction, XGBoost, GitHub Actions |
 | [**Treservi**](https://github.com/montaassarr/Treservi) · [live](https://treservi.vercel.app) | Multi-tenant salon booking & management PWA with QR self-booking and push notifications | React 19, Node.js, MongoDB Atlas, Web Push, Docker |
 
+📐 **How I design systems:** [system-design-case-studies](https://github.com/montaassarr/system-design-case-studies): architecture write-ups with diagrams and trade-offs (industrial IoT edge-to-IT, CQRS, monolith to N-tier, voice AI SaaS, booking PWA).
+
 #### Experience
 
 - **Socomec Group**, Software Engineer Intern (Jun–Aug 2026): CQRS backend in ASP.NET Core 8 / Blazor for a shop-floor app used in several countries, full audit trail, .NET 8 re-architecture with HR/ERP sync workers, and the design and prototype of an MQTT / Node-RED edge-to-IT pipeline with store-and-forward.
